@@ -1,0 +1,4 @@
+file naming:
+<filename>_<md5sum>_<fw link version>_<fw ofdm version>
+
+File must be named as dvb-usb-af9035-02.fw and put the correct location eg. /lib/firmware/dvb-usb-af9035-02.fw
